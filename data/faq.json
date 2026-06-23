@@ -1,0 +1,47 @@
+[
+ {
+  "question":"What is your return policy?",
+  "answer":"You can return products within 7 days of purchase."
+ },
+
+ {
+  "question":"How can I track my order?",
+  "answer":"You can track your order from the My Orders section."
+ },
+
+ {
+  "question":"Do you provide delivery?",
+  "answer":"Yes, we provide fast delivery worldwide."
+ },
+
+ {
+  "question":"How long will delivery take?",
+  "answer":"Delivery usually takes 3 to 5 working days."
+ },
+
+ {
+  "question":"How can I cancel my order?",
+  "answer":"You can cancel your order before shipping from the My Orders section."
+ },
+
+ {
+  "question":"What payment methods are available?",
+  "answer":"We accept UPI, credit card, debit card and online payments."
+ },
+
+ {
+  "question":"How can I contact support?",
+  "answer":"You can contact our support team through email."
+ },
+
+ {
+  "question":"Hello",
+  "answer":"Hello 👋 How can I help you today?"
+ },
+
+ {
+  "question":"Who are you?",
+  "answer":"I am an AI FAQ chatbot created to answer your questions."
+ }
+
+]

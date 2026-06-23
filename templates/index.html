@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>AI FAQ Chatbot</title>
+
+<link rel="stylesheet" href="/static/style.css">
+
+</head>
+
+
+<body>
+
+
+<div class="chat-container">
+
+
+<div class="header">
+
+🤖 AI FAQ CHATBOT
+
+</div>
+
+
+
+<div id="chat-box">
+
+
+<div class="bot">
+Hello 👋 <br>
+How can I help you today?
+</div>
+
+
+</div>
+
+
+
+
+
+<div class="suggestions">
+
+
+<button onclick="askQuestion('Where is my order?')">
+📦 Where is my order?
+</button>
+
+
+<button onclick="askQuestion('When will my order be delivered?')">
+🚚 Delivery time
+</button>
+
+
+<button onclick="askQuestion('How can I cancel my order?')">
+❌ Cancel order
+</button>
+
+
+<button onclick="askQuestion('How can I contact customer support?')">
+👨‍💻 Customer support
+</button>
+
+
+<button onclick="askQuestion('What payment methods are available?')">
+💳 Payment options
+</button>
+
+
+</div>
+
+
+
+
+
+
+<div class="input-area">
+
+
+<input 
+id="message"
+placeholder="Type your message..."
+>
+
+
+<button onclick="sendMessage()">
+
+Send
+
+</button>
+
+
+</div>
+
+
+
+</div>
+
+
+<script src="/static/script.js"></script>
+
+
+</body>
+
+</html>
